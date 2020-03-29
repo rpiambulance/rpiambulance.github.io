@@ -1,0 +1,11 @@
+# Site settings
+title: RPI Ambulance Development Team
+email: devs@rpiambulance.com
+author: RPI Ambulance
+description: Insert description here
+url: https://rpia.dev
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
